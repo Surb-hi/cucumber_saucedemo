@@ -1,0 +1,74 @@
+2022-05-18 14:05:523 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:173 INFO  LogInPage :26 - Enter username Satandard_user to  field [[ChromeDriver: chrome on WINDOWS (783270c0046f0493f0686933a923a265)] -> xpath: //input[@id='user-name']]<br>
+2022-05-18 14:05:332 INFO  LogInPage :32 - Enter passwordsecret_sauce to  field [[ChromeDriver: chrome on WINDOWS (783270c0046f0493f0686933a923a265)] -> xpath: //input[@id='password']]<br>
+2022-05-18 14:05:351 INFO  LogInPage :36 - Clicking on login [[ChromeDriver: chrome on WINDOWS (783270c0046f0493f0686933a923a265)] -> xpath: //input[@id='login-button']]<br>
+2022-05-18 14:05:624 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:588 INFO  LogInPage :26 - Enter username standard_user to  field [[ChromeDriver: chrome on WINDOWS (fb7da707bcae38e6ffb5ce48f9b8c501)] -> xpath: //input[@id='user-name']]<br>
+2022-05-18 14:05:746 INFO  LogInPage :32 - Enter passwordsecret_sauce to  field [[ChromeDriver: chrome on WINDOWS (fb7da707bcae38e6ffb5ce48f9b8c501)] -> xpath: //input[@id='password']]<br>
+2022-05-18 14:05:764 INFO  LogInPage :36 - Clicking on login [[ChromeDriver: chrome on WINDOWS (fb7da707bcae38e6ffb5ce48f9b8c501)] -> xpath: //input[@id='login-button']]<br>
+2022-05-18 14:05:982 INFO  PurchasePage :33 - Clicking on list[[ChromeDriver: chrome on WINDOWS (fb7da707bcae38e6ffb5ce48f9b8c501)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-18 14:05:264 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:309 INFO  LogInPage :26 - Enter username standard_user to  field [[ChromeDriver: chrome on WINDOWS (a1dc74f949d4c1b4dcb92291fbd04e2d)] -> xpath: //input[@id='user-name']]<br>
+2022-05-18 14:05:468 INFO  LogInPage :32 - Enter passwordsecret_sauce to  field [[ChromeDriver: chrome on WINDOWS (a1dc74f949d4c1b4dcb92291fbd04e2d)] -> xpath: //input[@id='password']]<br>
+2022-05-18 14:05:486 INFO  LogInPage :36 - Clicking on login [[ChromeDriver: chrome on WINDOWS (a1dc74f949d4c1b4dcb92291fbd04e2d)] -> xpath: //input[@id='login-button']]<br>
+2022-05-18 14:05:678 INFO  PurchasePage :33 - Clicking on list[[ChromeDriver: chrome on WINDOWS (a1dc74f949d4c1b4dcb92291fbd04e2d)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-18 14:05:352 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:756 INFO  LogInPage :26 - Enter username standard_user to  field [[ChromeDriver: chrome on WINDOWS (1eed295a2782213c942a86c5f51a084e)] -> xpath: //input[@id='user-name']]<br>
+2022-05-18 14:05:916 INFO  LogInPage :32 - Enter passwordsecret_sauce to  field [[ChromeDriver: chrome on WINDOWS (1eed295a2782213c942a86c5f51a084e)] -> xpath: //input[@id='password']]<br>
+2022-05-18 14:05:934 INFO  LogInPage :36 - Clicking on login [[ChromeDriver: chrome on WINDOWS (1eed295a2782213c942a86c5f51a084e)] -> xpath: //input[@id='login-button']]<br>
+2022-05-18 14:05:160 INFO  PurchasePage :35 - Clicking on list[[ChromeDriver: chrome on WINDOWS (1eed295a2782213c942a86c5f51a084e)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-18 14:05:842 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:784 INFO  LogInPage :26 - Enter username standard_user to  field [[ChromeDriver: chrome on WINDOWS (db5e8e07d1e50564b62a9c680ecdeb62)] -> xpath: //input[@id='user-name']]<br>
+2022-05-18 14:05:941 INFO  LogInPage :32 - Enter passwordsecret_sauce to  field [[ChromeDriver: chrome on WINDOWS (db5e8e07d1e50564b62a9c680ecdeb62)] -> xpath: //input[@id='password']]<br>
+2022-05-18 14:05:960 INFO  LogInPage :36 - Clicking on login [[ChromeDriver: chrome on WINDOWS (db5e8e07d1e50564b62a9c680ecdeb62)] -> xpath: //input[@id='login-button']]<br>
+2022-05-18 14:05:154 INFO  PurchasePage :35 - Clicking on list[[ChromeDriver: chrome on WINDOWS (db5e8e07d1e50564b62a9c680ecdeb62)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-18 14:05:848 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:886 INFO  LogInPage :26 - Enter username standard_user to  field [[ChromeDriver: chrome on WINDOWS (47bb3fd25039c914ca4a84f44564cd0a)] -> xpath: //input[@id='user-name']]<br>
+2022-05-18 14:05:45 INFO  LogInPage :32 - Enter passwordsecret_sauce to  field [[ChromeDriver: chrome on WINDOWS (47bb3fd25039c914ca4a84f44564cd0a)] -> xpath: //input[@id='password']]<br>
+2022-05-18 14:05:64 INFO  LogInPage :36 - Clicking on login [[ChromeDriver: chrome on WINDOWS (47bb3fd25039c914ca4a84f44564cd0a)] -> xpath: //input[@id='login-button']]<br>
+2022-05-18 14:05:276 INFO  PurchasePage :35 - Clicking on list[[ChromeDriver: chrome on WINDOWS (47bb3fd25039c914ca4a84f44564cd0a)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-18 14:05:59 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:225 INFO  LogInPage :26 - Enter username standard_user to  field [[ChromeDriver: chrome on WINDOWS (592006d3e3895f3b15645f9f3513baa6)] -> xpath: //input[@id='user-name']]<br>
+2022-05-18 14:05:374 INFO  LogInPage :32 - Enter passwordsecret_sauce to  field [[ChromeDriver: chrome on WINDOWS (592006d3e3895f3b15645f9f3513baa6)] -> xpath: //input[@id='password']]<br>
+2022-05-18 14:05:393 INFO  LogInPage :36 - Clicking on login [[ChromeDriver: chrome on WINDOWS (592006d3e3895f3b15645f9f3513baa6)] -> xpath: //input[@id='login-button']]<br>
+2022-05-18 14:05:634 INFO  PurchasePage :35 - Clicking on list[[ChromeDriver: chrome on WINDOWS (592006d3e3895f3b15645f9f3513baa6)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-18 14:05:166 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:184 INFO  LogInPage :26 - Enter username standard_user to  field [[ChromeDriver: chrome on WINDOWS (a43c35a45b72629fc5e3492437b84f28)] -> xpath: //input[@id='user-name']]<br>
+2022-05-18 14:05:340 INFO  LogInPage :32 - Enter passwordsecret_sauce to  field [[ChromeDriver: chrome on WINDOWS (a43c35a45b72629fc5e3492437b84f28)] -> xpath: //input[@id='password']]<br>
+2022-05-18 14:05:358 INFO  LogInPage :36 - Clicking on login [[ChromeDriver: chrome on WINDOWS (a43c35a45b72629fc5e3492437b84f28)] -> xpath: //input[@id='login-button']]<br>
+2022-05-18 14:05:552 INFO  PurchasePage :35 - Clicking on list[[ChromeDriver: chrome on WINDOWS (a43c35a45b72629fc5e3492437b84f28)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-18 15:05:964 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:503 INFO  LogInPage :26 - Enter username standard_user to  field [[ChromeDriver: chrome on WINDOWS (b03f9ca78e203ffb505d642427e87e9c)] -> xpath: //input[@id='user-name']]<br>
+2022-05-18 15:05:601 INFO  LogInPage :32 - Enter passwordsecret_sauce to  field [[ChromeDriver: chrome on WINDOWS (b03f9ca78e203ffb505d642427e87e9c)] -> xpath: //input[@id='password']]<br>
+2022-05-18 15:05:612 INFO  LogInPage :36 - Clicking on login [[ChromeDriver: chrome on WINDOWS (b03f9ca78e203ffb505d642427e87e9c)] -> xpath: //input[@id='login-button']]<br>
+2022-05-18 15:05:722 INFO  PurchasePage :35 - Clicking on list[[ChromeDriver: chrome on WINDOWS (b03f9ca78e203ffb505d642427e87e9c)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-18 15:05:493 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:742 INFO  LogInPage :26 - Enter username standard_user to  field [[ChromeDriver: chrome on WINDOWS (a17a21b08ac3239fd6bbc860a91ee70a)] -> xpath: //input[@id='user-name']]<br>
+2022-05-18 15:05:832 INFO  LogInPage :32 - Enter passwordsecret_sauce to  field [[ChromeDriver: chrome on WINDOWS (a17a21b08ac3239fd6bbc860a91ee70a)] -> xpath: //input[@id='password']]<br>
+2022-05-18 15:05:844 INFO  LogInPage :36 - Clicking on login [[ChromeDriver: chrome on WINDOWS (a17a21b08ac3239fd6bbc860a91ee70a)] -> xpath: //input[@id='login-button']]<br>
+2022-05-18 15:05:05 INFO  PurchasePage :32 - Clicking on list[[ChromeDriver: chrome on WINDOWS (a17a21b08ac3239fd6bbc860a91ee70a)] -> xpath: //select[@class='product_sort_container']]<br>
+2022-05-18 15:05:82 INFO  PurchasePage :36 - Selecting product high to lowPrice (high to low) from dropdown [[ChromeDriver: chrome on WINDOWS (a17a21b08ac3239fd6bbc860a91ee70a)] -> xpath: //select[@class='product_sort_container']]<br>
+2022-05-18 15:05:150 INFO  PurchasePage :45 - Clicking on chipest productProxy element for: DefaultElementLocator 'By.xpath: //button[@id='add-to-cart-sauce-labs-onesie']'<br>
+2022-05-18 15:05:238 INFO  PurchasePage :41 - Clicking on costliest productProxy element for: DefaultElementLocator 'By.xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']'<br>
+2022-05-18 15:05:281 INFO  PurchasePage :49 - Clicking on ShoppingCart[[ChromeDriver: chrome on WINDOWS (a17a21b08ac3239fd6bbc860a91ee70a)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]<br>
+2022-05-18 15:05:370 INFO  CheckOutYourInformatiom :32 - Enter firstname mummy_pig to  field [[ChromeDriver: chrome on WINDOWS (a17a21b08ac3239fd6bbc860a91ee70a)] -> xpath: //input[@id='first-name']]<br>
+2022-05-18 15:05:412 INFO  CheckOutYourInformatiom :37 - Enter  papa_pig to  field papa_pig<br>
+2022-05-18 15:05:454 INFO  CheckOutYourInformatiom :42 - Enter zipcode 380000 to  field [[ChromeDriver: chrome on WINDOWS (a17a21b08ac3239fd6bbc860a91ee70a)] -> xpath: //input[@id='postal-code']]<br>
+2022-05-18 15:05:497 INFO  CheckOutYourInformatiom :46 - Clicking on continueProxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'<br>
+2022-05-18 15:05:508 INFO  CheckOutOverview :20 - Clicking on finish[[ChromeDriver: chrome on WINDOWS (a17a21b08ac3239fd6bbc860a91ee70a)] -> xpath: //button[@id='finish']]<br>
+2022-05-18 15:05:558 INFO  CheckoutComplate :20 - getting  text from THANK YOU FOR YOUR ORDER [[ChromeDriver: chrome on WINDOWS (a17a21b08ac3239fd6bbc860a91ee70a)] -> xpath: //h2[contains(text(),'THANK YOU FOR YOUR ORDER')]]<br>
+2022-05-18 15:05:394 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:825 INFO  LogInPage :26 - Enter username standard_user to  field [[ChromeDriver: chrome on WINDOWS (a46e7ff3c6e67d638030d90a8899ccf9)] -> xpath: //input[@id='user-name']]<br>
+2022-05-18 15:05:922 INFO  LogInPage :32 - Enter passwordsecret_sauce to  field [[ChromeDriver: chrome on WINDOWS (a46e7ff3c6e67d638030d90a8899ccf9)] -> xpath: //input[@id='password']]<br>
+2022-05-18 15:05:933 INFO  LogInPage :36 - Clicking on login [[ChromeDriver: chrome on WINDOWS (a46e7ff3c6e67d638030d90a8899ccf9)] -> xpath: //input[@id='login-button']]<br>
+2022-05-18 15:05:35 INFO  PurchasePage :32 - Clicking on list[[ChromeDriver: chrome on WINDOWS (a46e7ff3c6e67d638030d90a8899ccf9)] -> xpath: //select[@class='product_sort_container']]<br>
+2022-05-18 15:05:105 INFO  PurchasePage :36 - Selecting product high to lowPrice (high to low) from dropdown [[ChromeDriver: chrome on WINDOWS (a46e7ff3c6e67d638030d90a8899ccf9)] -> xpath: //select[@class='product_sort_container']]<br>
+2022-05-18 15:05:153 INFO  PurchasePage :45 - Clicking on chipest productProxy element for: DefaultElementLocator 'By.xpath: //button[@id='add-to-cart-sauce-labs-onesie']'<br>
+2022-05-18 15:05:230 INFO  PurchasePage :41 - Clicking on costliest productProxy element for: DefaultElementLocator 'By.xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']'<br>
+2022-05-18 15:05:290 INFO  PurchasePage :49 - Clicking on ShoppingCart[[ChromeDriver: chrome on WINDOWS (a46e7ff3c6e67d638030d90a8899ccf9)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]<br>
+2022-05-18 15:05:418 INFO  CheckOutYourInformatiom :32 - Enter firstname mummy_pig1 to  field [[ChromeDriver: chrome on WINDOWS (a46e7ff3c6e67d638030d90a8899ccf9)] -> xpath: //input[@id='first-name']]<br>
+2022-05-18 15:05:481 INFO  CheckOutYourInformatiom :37 - Enter  papa_pig1 to  field papa_pig1<br>
+2022-05-18 15:05:538 INFO  CheckOutYourInformatiom :42 - Enter zipcode 380000 to  field [[ChromeDriver: chrome on WINDOWS (a46e7ff3c6e67d638030d90a8899ccf9)] -> xpath: //input[@id='postal-code']]<br>
+2022-05-18 15:05:622 INFO  CheckOutYourInformatiom :46 - Clicking on continueProxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'<br>
+2022-05-18 15:05:635 INFO  CheckOutOverview :20 - Clicking on finish[[ChromeDriver: chrome on WINDOWS (a46e7ff3c6e67d638030d90a8899ccf9)] -> xpath: //button[@id='finish']]<br>
+2022-05-18 15:05:687 INFO  CheckoutComplate :20 - getting  text from THANK YOU FOR YOUR ORDER [[ChromeDriver: chrome on WINDOWS (a46e7ff3c6e67d638030d90a8899ccf9)] -> xpath: //h2[contains(text(),'THANK YOU FOR YOUR ORDER')]]<br>
